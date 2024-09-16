@@ -6,6 +6,7 @@ import {
     javascript,
     typescript,
     html,
+    python,
     css,
     reactjs,
     redux,
@@ -16,7 +17,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    dts,
     tesla,
     shopify,
     la,
@@ -62,7 +63,7 @@ import {
   const technologies = [
     {
       name: "HTML 5",
-      icon: html,
+      icon: python,
     },
     {
       name: "CSS 3",
@@ -118,7 +119,7 @@ import {
     {
       title: "AI & Data Science Intern",
       company_name: "Dockyard Total Solution (DTS)",
-      icon: starbucks,
+      icon: dts,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
