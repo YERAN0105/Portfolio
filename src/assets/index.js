@@ -24,7 +24,7 @@ import python from "./tech/python.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import dts from "./company/DTS.png";
+import dts from "./company/dts.png";
 import tesla from "./company/tesla.png";
 
 import la from "./la.png";
