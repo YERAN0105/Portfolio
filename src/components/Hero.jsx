@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import img from "../assets/yera.png";
 import pdf from "../assets/yeran.pdf";
+import { FaGithub, FaLinkedin } from 'react-icons/fa';  // Import icons
 
 const Hero = () => {
   return (
@@ -46,6 +47,15 @@ const Hero = () => {
               className="inline-block mt-10 px-6 py-3 text-white border-2 border-[#915EFF] bg-transparent rounded-lg hover:bg-[#915EFF] hover:text-white transition-colors">
               Download CV
             </a>
+            {/* Social media icons */}
+            <div className="mt-4 md:mt-5 flex gap-4">
+              <a href="https://github.com/your-github-profile" target="_blank" rel="noopener noreferrer">
+                <FaGithub className="text-white text-2xl md:text-3xl p-0 hover:text-[#915EFF] hover:glow-effect rounded-full fill-current" />
+              </a>
+              <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
+                <FaLinkedin className="text-white text-2xl md:text-3xl hover:text-[#915EFF] hover:glow-effect fill-current" />
+              </a>
+            </div>
           </div>
         </div>
       </div>
