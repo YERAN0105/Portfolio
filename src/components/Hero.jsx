@@ -28,7 +28,7 @@ const Hero = () => {
 
             {/* Paragraph + image aligned */}
             <div className="flex flex-row items-start gap-5 mt-4">
-              <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+              <p className={`${styles.heroSubText} mt-3 md:mt-5 text-secondary text-base sm:text-lg md:text-xl`}>
                 I work on predictive analytics, deep learning, <br className="sm:block hidden" />
                 and innovative applications that drive actionable insights.
               </p>

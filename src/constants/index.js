@@ -121,7 +121,7 @@ import {
       company_name: "Dockyard Total Solution (DTS)",
       icon: dts,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2024 - Present",
       points: [
         "Developing predictive models to forecast future maintenance dates for ships using machine learning techniques.",
         "Collaborating with cross-functional teams including data engineers, project managers, and domain experts to ensure accurate and scalable solutions.",
