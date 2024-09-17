@@ -49,10 +49,10 @@ const Hero = () => {
             </a>
             {/* Social media icons */}
             <div className="mt-4 md:mt-5 flex gap-4">
-              <a href="https://github.com/your-github-profile" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/YERAN0105" target="_blank" rel="noopener noreferrer">
                 <FaGithub className="text-white text-2xl md:text-3xl p-0 hover:text-[#915EFF] hover:glow-effect rounded-full fill-current" />
               </a>
-              <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/yeran-fernando-1a00772bb/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className="text-white text-2xl md:text-3xl hover:text-[#915EFF] hover:glow-effect fill-current" />
               </a>
             </div>
